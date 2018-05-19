@@ -1,6 +1,6 @@
 # Resources For International Students in the US
 
-To contribute, contact [Temi Oloyede](https:www.facebook.com/temi.oloyede.3) or simply submit a pull request
+To contribute, contact [Temi Oloyede](https://www.facebook.com/temi.oloyede.3) or simply submit a pull request
 
 # Table Of Contents
 
